@@ -47,6 +47,7 @@ This project sparked my curiosity and drives me to explore any software domain w
 - 📧 **Email:** [tedan.h0nzra@gmail.com](mailto:tedan.h0nzra@gmail.com)
 - 👤 **Facebook:** [H0nzrA](https://web.facebook.com/H0nzrA)
 - 📷 **Instagram:** [@honzra_9](https://www.instagram.com/honzra_9)
+- 💼 **LinkedIn:** [H0nzrA](https://www.linkedin.com/in/teddy-andrianina-09-h0nzra)
 
 ---
 
