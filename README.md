@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**H0nzrA/H0nzrA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Andrianina
 
-Here are some ideas to get you started:
+**42 Student · Software Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Systems programming · Algorithms · Data structures · Software architecture
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## Current Focus
+
+- **Libraries:** reusable data structures in C
+- **Systems:** memory management, multithreading and synchronization
+- **Algorithms:** graph traversal and pathfinding
+- **Design:** software architecture and separation of responsibilities
+
+## Selected Projects
+
+| Project                                                            | Description                                 | Language |
+| ------------------------------------------------------------------ | ------------------------------------------- | ------- |
+| [**libds**](https://github.com/H0nzrA/data_structure)              | Generic data structure library              |    C    |
+| [**fantastic-pacman**](https://github.com/H0nzrA/fantastic-pacman) | Pac-Man implementation with custom ghost AI | Python  |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=H0nzrA&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0nzrA&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Growing through code, one project at a time.*
+
+</div>
