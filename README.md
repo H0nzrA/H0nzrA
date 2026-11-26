@@ -26,7 +26,7 @@ Systems programming · Algorithms · Data structures · Software architecture
 | Project                                                            | Description                                 | Language |
 | ------------------------------------------------------------------ | ------------------------------------------- | ------- |
 | [**libds**](https://github.com/H0nzrA/data_structure)              | Generic data structure library              |    C    |
-| [**fantastic-pacman**](https://github.com/H0nzrA/fantastic-pacman) | Pac-Man implementation with custom ghost AI | Python  |
+| [**fantastic-pacman**](https://github.com/offertchrist03/fantastic-pacman.git) | Pac-Man implementation with custom ghost AI | Python  |
 
 ---
 
