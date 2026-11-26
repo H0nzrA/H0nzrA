@@ -30,12 +30,11 @@ Systems programming · Algorithms · Data structures · Software architecture
 | [**fly_in**](https://github.com/H0nzrA/fly_in.git)                             | Multiple drone simulation                   | Python   |                                                               
 ---
 
-## GitHub Activity
+## Most Used Languages
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=H0nzrA&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0nzrA&layout=compact&theme=transparent&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H0nzrA&layout=compact&langs_count=20&theme=transparent&hide_border=true)
 
 </div>
 
